@@ -11,7 +11,7 @@
 <div align="center">=> Done List의 장점 + To Do List의 단점 극복</div>
 
 <h2>필자가 구현한 사항</h2>
-<p>DB 데이터 구축<br>SQL문 완성<br>서버 구축<br>
+<p>SQL문 구축<br>서버 구축<br>
 첫 화면<br>
 카카오 로그인<br>
 로그아웃<br>
