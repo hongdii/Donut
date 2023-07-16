@@ -1,4 +1,4 @@
-# donut
+# Donut (DONe yoU Trust)
 
 *조원 : 오현지(조장), 남주희, 홍서영*
 
