@@ -2,7 +2,7 @@
 
 *조원 : 오현지(조장), 남주희, 홍서영*
 <br><br>
-<a href="">[PPT 다운로드]</a>
+<a href="https://github.com/hongdii/Donut/blob/main/Donut_21.12.07.pptx">[PPT 다운로드]</a>
 <br>
 <h2>작품 소개</h2>
 <p>오늘 자신이 한 사소한 일을 적어서 기록하고</p>
